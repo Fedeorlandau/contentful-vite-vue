@@ -7,3 +7,9 @@ import Hero from "./components/Hero.vue";
     <Hero />
   </Suspense>
 </template>
+
+<style>
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+</style>
